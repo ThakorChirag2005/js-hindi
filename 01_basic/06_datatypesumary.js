@@ -42,3 +42,13 @@ console.log(myObj);
     }
 
     console.log(typeof myFunction);
+
+
+//**************stack(primitive)********  heap(non - primitive)************* */
+
+let myYoutubename = "chiragthakor2005";
+let myAnothername = "youtubename";
+myAnothername = "ravithakor2005";
+
+console.log(myYoutubename);
+console.log(myAnothername);
